@@ -1,1 +1,1 @@
-# mongoli_data-validation-AI
+# mongolia_data-validation-AI
